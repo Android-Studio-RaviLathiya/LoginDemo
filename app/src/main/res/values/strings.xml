@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoLogin</string>
+
+    <string name="facebook_app_id">3202963606392833</string>
+    <string name="fb_login_protocol_scheme">fb3202963606392833</string>
+
+</resources>
